@@ -4,7 +4,7 @@
 
 ## Démo Live
 
-**Dashboard Interactif :** [Climate Risk Dashboard](https://climate-risk-analysis.streamlit.app/)
+**Dashboard Interactif :** [Climate Risk Dashboard](https://analyse-des-risques-climatiques.streamlit.app/)
 
 ## Résultats Clés
 
